@@ -1,0 +1,5 @@
+F:\vs2015\WebHander\WebHander\bin\Debug\WebHander.exe.config
+F:\vs2015\WebHander\WebHander\bin\Debug\WebHander.exe
+F:\vs2015\WebHander\WebHander\bin\Debug\WebHander.pdb
+F:\vs2015\WebHander\WebHander\obj\Debug\WebHander.exe
+F:\vs2015\WebHander\WebHander\obj\Debug\WebHander.pdb
